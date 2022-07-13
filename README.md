@@ -1,5 +1,5 @@
 ﻿# Camera-Web-Application
-This is a web-based camera application that I have made with a few basic functionalities.
+This is a web-based camera application that I have made with a some functionalities.
 
 Features:-
 1. The application can click pictures and record videos with the filters applied to it.
